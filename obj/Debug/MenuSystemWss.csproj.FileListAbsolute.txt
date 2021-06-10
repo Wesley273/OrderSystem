@@ -1,0 +1,69 @@
+D:\C#程序专用\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.exe.config
+D:\C#程序专用\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.csprojResolveAssemblyReference.cache
+D:\C#程序专用\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.Form1.resources
+D:\C#程序专用\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.Properties.Resources.resources
+D:\C#程序专用\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.csproj.GenerateResource.Cache
+D:\C#程序专用\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.exe
+D:\C#程序专用\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.pdb
+D:\C#程序专用\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.exe
+D:\C#程序专用\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.pdb
+D:\C#程序专用\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.zcfm.resources
+D:\C#程序专用\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.MenuShop.resources
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.exe.config
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.exe
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.pdb
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.exe
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.pdb
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.csprojResolveAssemblyReference.cache
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.Form1.resources
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.gkfm.resources
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.MenuShop.resources
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.Properties.Resources.resources
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.zcfm.resources
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.csproj.GenerateResource.Cache
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.sjfm.resources
+D:\桌面\C#程序\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.glfm.resources
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.exe.config
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.exe
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.pdb
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.exe
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.pdb
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.csprojResolveAssemblyReference.cache
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.Form1.resources
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.gkfm.resources
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.glfm.resources
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.MenuShop.resources
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.Properties.Resources.resources
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.sjfm.resources
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.zcfm.resources
+D:\C#程序专用\171164069韦帅帅 点菜系统\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.csproj.GenerateResource.Cache
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.exe.config
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.exe
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\bin\Debug\MenuSystemWss.pdb
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.csprojAssemblyReference.cache
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.Form1.resources
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.gkfm.resources
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.glfm.resources
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.MenuShop.resources
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.Properties.Resources.resources
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.sjfm.resources
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.zcfm.resources
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.csproj.GenerateResource.cache
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.exe
+C:\Users\Wesley\Desktop\MenuSystemWss\MenuSystemWss\obj\Debug\MenuSystemWss.pdb
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\bin\Debug\MenuSystemWss.exe.config
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\bin\Debug\MenuSystemWss.exe
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\bin\Debug\MenuSystemWss.pdb
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.csprojAssemblyReference.cache
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.Login.resources
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.MenuShop.resources
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.Properties.Resources.resources
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.csproj.GenerateResource.cache
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.exe
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.pdb
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.Register.resources
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.CustomerHomePage.resources
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.OrderManager.resources
+C:\Users\Wesley\Documents\Git\SQL\OrderSystem\MenuSystemWss\obj\Debug\MenuSystemWss.MerchantHomePage.resources

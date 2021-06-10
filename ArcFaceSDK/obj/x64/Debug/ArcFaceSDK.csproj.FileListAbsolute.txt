@@ -1,0 +1,5 @@
+C:\Users\Wesley\Desktop\ArcfaceDemo_CSharp_3.0-master\ArcFaceSDK\bin\x64\Debug\ArcFaceSDK.dll
+C:\Users\Wesley\Desktop\ArcfaceDemo_CSharp_3.0-master\ArcFaceSDK\bin\x64\Debug\ArcFaceSDK.pdb
+C:\Users\Wesley\Desktop\ArcfaceDemo_CSharp_3.0-master\ArcFaceSDK\obj\x64\Debug\ArcFaceSDK.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\ArcfaceDemo_CSharp_3.0-master\ArcFaceSDK\obj\x64\Debug\ArcFaceSDK.dll
+C:\Users\Wesley\Desktop\ArcfaceDemo_CSharp_3.0-master\ArcFaceSDK\obj\x64\Debug\ArcFaceSDK.pdb
